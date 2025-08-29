@@ -48,7 +48,7 @@ export const ContactSection = () => {
                     href="mailto:shadesss@gmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                  Shady@gmail.com
+                  shadrackdorkenoo@gmail.com
                   </a>
                 </div>
               </div>
@@ -63,7 +63,7 @@ export const ContactSection = () => {
                     href="tel:+233543423234"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                  +233543423234
+                  +233544969079
                   </a>
                 </div>
               </div>
@@ -77,7 +77,7 @@ export const ContactSection = () => {
                   <a
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                  Shady@gmail.com
+                  University of Ghana
                   </a>
                 </div>
               </div>
@@ -87,11 +87,11 @@ export const ContactSection = () => {
               <h4 className="font-medium mb-4">Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
                 <a
-                  href="#" target="_blank">
+                  href="https://www.linkedin.com/in/shadrack-dorkenoo/" target="_blank">
                   <Linkedin />
                 </a>
                 <a
-                  href="#" target="_blank">
+                  href="https://github.com/shadyOg" target="_blank">
                   <Github />
                 </a>
               </div>

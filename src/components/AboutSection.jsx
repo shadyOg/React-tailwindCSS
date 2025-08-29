@@ -63,10 +63,9 @@ export const AboutSection = () => {
                 <User className="w-6 h-6 text-primary" />
               </div>
               <div className="text-left">
-                <h4 className="font-semibold">Web Development</h4>
+                <h4 className="font-semibold">Collaboration</h4>
                 <p className="text-muted-foreground">
-                  Using modern and up to date tools to build websites 
-                  and efficient web apps for clients.
+                  Worked with a team for my software engineering project
                 </p>
               </div>
             </div>
@@ -78,10 +77,9 @@ export const AboutSection = () => {
                 <Briefcase className="w-6 h-6 text-primary" />
               </div>
               <div className="text-left">
-                <h4 className="font-semibold">Web Development</h4>
+                <h4 className="font-semibold">Work Experience</h4>
                 <p className="text-muted-foreground">
-                  Using modern and up to date tools to build websites 
-                  and efficient web apps for clients.
+                  As a student I built projects for fun.
                 </p>
               </div>
             </div>
